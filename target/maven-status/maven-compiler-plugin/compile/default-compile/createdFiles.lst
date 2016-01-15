@@ -1,0 +1,7 @@
+com\goeuro\test\entity\City.class
+com\goeuro\test\common\helper\Helper.class
+com\goeuro\test\writer\csv\CSVFileWriter.class
+com\goeuro\test\entity\GeoPosition.class
+com\goeuro\test\client\GoEuroClient.class
+com\goeuro\test\main\Application.class
+com\goeuro\test\common\contants\ErrorMessageConstants.class
